@@ -9,4 +9,4 @@ __italicdoubleunderscore__
 
 [Nissan GTR](https://cdn.motor1.com/images/mgl/eobzNK/s1/2024-nissan-gt-r-t-spec.jpg)
 
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
