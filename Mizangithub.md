@@ -7,6 +7,6 @@ __italicdoubleunderscore__
 ::2 colons means your work gets highlighted::
 ***bold and italic is 3 asterisks on each side***
 
-https://cdn.motor1.com/images/mgl/eobzNK/s1/2024-nissan-gt-r-t-spec.jpg
+[Nissan GTR]
 
-! [Nissan GTR] /2024-nissan-gt-r-t-spec.jpg
+https://cdn.motor1.com/images/mgl/eobzNK/s1/2024-nissan-gt-r-t-spec.jpg
